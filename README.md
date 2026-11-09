@@ -1,55 +1,20 @@
-# Third-Party Risk Management Assessment
+## Introduction
 
-> Vendor risk decision-making: a questionnaire-based comparison of Splunk and SquadCast with a selection recommendation.
+Third-party risk management in cybersecurity refers to the process of identifying, assessing, and mitigating the risks associated with the use of third-party vendors, suppliers, or partners who have access to an organization's sensitive data or systems. 
 
-![Vendor risk decision-making](https://img.shields.io/badge/Focus-Vendor%20risk%20decision--making-0f766e) ![TPRM questionnaire](https://img.shields.io/badge/Framework-TPRM%20questionnaire-2b6cb0)
+In today's interconnected business environment, organizations often rely on third parties for various services, such as cloud computing, software development, or supply chain management. However, these relationships can introduce potential vulnerabilities and security risks to the organization.
 
-| | |
-| --- | --- |
-| **Focus area** | Vendor risk decision-making |
-| **Frameworks and standards** | TPRM questionnaire |
+The goal of third-party risk management is to ensure that the organization's data and systems are protected throughout the entire supply chain or vendor ecosystem. It involves a series of activities, including:
 
+- **Risk Assessment**: This involves evaluating the security posture and practices of third-party vendors or partners. It includes assessing factors such as their information security policies, data handling practices, access controls, and incident response capabilities.
 
-## Objective
+- **Due Diligence**: Organizations need to conduct due diligence when selecting third-party vendors. This includes evaluating their financial stability, reputation, and compliance with relevant regulations or industry standards. Additionally, the organization should assess the vendor's security controls and ensure they align with their own security requirements.
 
-Support a vendor selection decision by comparing the security posture and residual risk of two candidate vendors, Splunk and SquadCast.
+- **Contractual Agreements**: Organizations should establish comprehensive contractual agreements with third-party vendors that define the security expectations, responsibilities, and liabilities of each party. These agreements may include clauses related to data protection, security audits, breach notification, and indemnification.
 
-## Execution
+- **Ongoing Monitoring**: Once a third-party relationship is established, continuous monitoring is necessary to ensure that the vendor maintains adequate security practices over time. This may involve periodic security assessments, audits, or requesting evidence of compliance with security standards or regulations.
 
-- I applied a TPRM questionnaire to both vendors, covering domains such as access control, encryption, incident response and certifications.
-- I scored responses, identified control gaps, and compared residual risk relative to the data and service each vendor would handle.
-- I documented the compensating controls and contractual requirements each option would need.
-- I delivered a selection recommendation with the reasoning and accepted residual risk made explicit.
+- **Incident Response**: Organizations should establish protocols for addressing security incidents involving third-party vendors. This includes clear communication channels, incident reporting procedures, and coordination between the organization and the vendor to minimize the impact of any security breaches.
 
-## Business outcomes
+By implementing a robust third-party risk management program, organizations can better protect their sensitive data, maintain regulatory compliance, and mitigate the potential impact of security breaches originating from their vendor ecosystem.
 
-- Recommended one vendor on the basis of several deciding factors, with a low residual risk rating and conditions to close before onboarding.
-- Gave procurement and security a repeatable assessment method for future vendor reviews.
-
-## Skills demonstrated
-
-- Vendor due diligence
-- Questionnaire scoring and comparison
-- Residual risk analysis
-- Contract and compensating-control requirements
-
-
-## Deliverables
-
-**Third party risk assessment report**
-
-<img width="828" height="920" alt="TPRM  1" src="https://github.com/user-attachments/assets/d55d692b-bff5-4e53-b129-9169486e8ce7" />
-
-
-<img width="824" height="912" alt="TPRM REPORT" src="https://github.com/user-attachments/assets/2f9ea409-6cc6-4c96-9620-b4d235e08d60" />
-
-<img width="836" height="912" alt="TPRM REPORT 2" src="https://github.com/user-attachments/assets/ade7fcc1-e4e4-45da-af18-b8f3cfb277cb" />
-
-<img width="824" height="910" alt="TPRM REPORT 3" src="https://github.com/user-attachments/assets/fb78adea-8755-4597-85d7-5a3e2ff414ed" />
-
-<img width="838" height="924" alt="TPRM REPORT 4" src="https://github.com/user-attachments/assets/923113e0-13c1-4573-92da-623a82a70ba6" />
-
-
-
-
-*All materials are sanitized and contain no confidential or client data.*
